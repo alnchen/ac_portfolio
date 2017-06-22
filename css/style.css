@@ -53,6 +53,8 @@ html {
   height: 5vh;
   width: auto;
   padding-left: 3vw;
+  position: relative;
+  bottom: 6px;
 }
 
 body {
