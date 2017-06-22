@@ -49,6 +49,12 @@ html {
   filter: invert(100%);
 }
 
+.ac-logo {
+  height: 5vh;
+  width: auto;
+  padding-left: 3vw;
+}
+
 body {
     height: 100%;
     background: #FFFFFF;

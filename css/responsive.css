@@ -175,7 +175,7 @@ h2{
     padding: 125px 15px;
 	text-align: left;
 	padding-top: 185px;
-	padding-left: 14px;
+	/*padding-left: 14px;*/
 }
 .intro-caption h1 {
     font-size: 25px;
