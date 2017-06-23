@@ -19,10 +19,10 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "themefabby@gmail.com";
+        $recipient = "alchen1231@gmail.com";
 
         // Set the email subject.
-        $subject = "Nipp - Personal Portfolio Landing Template $name";
+        $subject = "Portfolio Contact Request $name";
 
         // Build the email content.
         $email_content = "Name: $name\n";
